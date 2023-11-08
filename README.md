@@ -7,9 +7,12 @@ This project has been developed using Java 17, Spring-boot 3.1.4 and Maven.
 
 All the entities for the grocery are mapped using the JPA.
 
-Instructions run this api:
+Instructions run this project:
+
 Clone this project
+
 Import in any IDE as Maven project
+
 Build : mvn clean install
 
 Run: Run the application
